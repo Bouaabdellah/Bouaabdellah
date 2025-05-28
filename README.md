@@ -57,7 +57,7 @@ I'm a passionate **Full Stack Web Developer** and a Computer Science student at 
 ## 💬 Let's Connect!
 
 - 📫 How to reach me: **your.email@example.com**
-- 💼 LinkedIn: **[Your LinkedIn Profile](https://www.linkedin.com/in/bouaa-beloued-297621368/)**
+- 💼 LinkedIn: **[bouaa beloued](https://www.linkedin.com/in/bouaa-beloued-297621368/)**
 - 🌐 Portfolio: **[Your Portfolio Website](https://yourportfolio.com)**
 
 💼 **Open to internship opportunities in Web Development and Backend Development!**
